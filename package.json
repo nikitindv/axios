@@ -1,9 +1,9 @@
 {
   "name": "axios",
-  "version": "0.18.0",
+  "version": "release/1.0.1",
   "description": "Promise based HTTP client for the browser and node.js",
   "main": "axios.js",
-  "module": "axios.js",
+  "module": "lib/axios.js",
   "scripts": {
     "pretest": "npm run build",
     "test": "npm run test:karma && npm run test:unit && npm run lint && bundlesize",
