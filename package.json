@@ -88,6 +88,7 @@
   "dependencies": {
     "follow-redirects": "^1.4.1",
     "is-buffer": "^2.0.2",
+    "lodash-es": "^4.17.10",
     "pkginfo": "^0.4.1"
   },
   "bundlesize": [
