@@ -1,6 +1,6 @@
 {
   "name": "axios",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Promise based HTTP client for the browser and node.js",
   "main": "axios.js",
   "module": "lib/axios.js",
@@ -87,9 +87,9 @@
   },
   "typings": "./index.d.ts",
   "dependencies": {
+    "aori-lodash": "stat92/aori-lodash#1.0.1",
     "follow-redirects": "^1.4.1",
     "is-buffer": "^2.0.2",
-    "lodash-es": "^4.17.10",
     "pkginfo": "^0.4.1"
   },
   "bundlesize": [
